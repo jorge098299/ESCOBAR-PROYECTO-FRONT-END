@@ -1,0 +1,13 @@
+###Listar productos
+
+GET http://localhost:3000/producto
+
+
+###Crear Producto
+
+POST http://localhost:3000/producto
+Content-Type: application/json
+
+{
+
+} 
